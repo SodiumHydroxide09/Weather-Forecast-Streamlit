@@ -1,0 +1,21 @@
+# 🌦️ Weather Forecasting App with AI Insights
+
+Welcome to the Weather Forecasting App — your smart assistant for real-time weather updates, AI-generated insights, and a sleek 7-day forecast.
+Built using **Streamlit**, **WeatherAPI**, and **Gemini 2.5 Flash**, this app not only gives you the current weather but also explains it like a friendly weather expert!
+
+---
+
+## 🚀 Features
+
+- 🌡️ **Current Weather Data** – Live temperature, humidity, pressure, and wind speed.
+- 🤖 **AI Insight on Weather** – Gemini AI generates a short, human-friendly comment on current conditions.
+- 📅 **7-Day Forecast** – Weather outlook for the week in a clean tabular format.
+- 🧠 **LLM-Powered Summaries** – Detailed, AI-generated weather explanations for a general audience.
+
+  
+## 🛠️ Built With
+
+- [Streamlit](https://streamlit.io/)
+- [WeatherAPI](https://www.weatherapi.com/)
+- [Google Gemini (Generative AI)](https://ai.google.dev/)
+- Python 3.10+
